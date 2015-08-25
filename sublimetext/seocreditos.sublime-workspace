@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Pages/home.ctp",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Controller/RequestController.php",
+			"settings":
+			{
+				"buffer_size": 3437,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Request/landing.ctp",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Windows",
+				"name": "landing.ctp"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Model/Entity/Request.php",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Model/Table/RequestTable.php",
+			"settings":
+			{
+				"buffer_size": 2775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Pages/home.ctp.default",
+			"settings":
+			{
+				"buffer_size": 9189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Layout/default.ctp",
+			"settings":
+			{
+				"buffer_size": 3792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Request/simulation.ctp",
+			"settings":
+			{
+				"buffer_size": 829,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Controller/AppController.php",
+			"settings":
+			{
+				"buffer_size": 1364,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Documents/GitHub/seocreditos-repo/seocreditos/config/routes.php",
+		"/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Pages/home.ctp.default",
+		"/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Controller/RequestController.php",
+		"/D/Documents/GitHub/seocreditos-repo/seocreditos/webroot/js/jquery-2.1.4.min.js",
+		"/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Model/Table/RequestTable.php",
+		"/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Pages/home.ctp",
+		"/C/Users/Rui Miranda/Desktop/jquery-2.1.4.min.js",
+		"/D/Program Files/Sublime Text/Data/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"before",
+			"home",
+			">\n",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Pages/home.ctp",
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Controller/RequestController.php",
+					"settings":
+					{
+						"buffer_size": 3437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Request/landing.ctp",
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								627
+							]
+						],
+						"settings":
+						{
+							"auto_name": "landing.ctp",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Model/Entity/Request.php",
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Model/Table/RequestTable.php",
+					"settings":
+					{
+						"buffer_size": 2775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Pages/home.ctp.default",
+					"settings":
+					{
+						"buffer_size": 9189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Layout/default.ctp",
+					"settings":
+					{
+						"buffer_size": 3792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3611,
+								3611
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 865.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Template/Request/simulation.ctp",
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Documents/GitHub/seocreditos-repo/seocreditos/src/Controller/AppController.php",
+					"settings":
+					{
+						"buffer_size": 1364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1279,
+								1283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 99.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true
+}
